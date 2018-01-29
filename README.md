@@ -7,4 +7,5 @@
 ### 技术细节
 利用mvc架构，实现的一个博客。
 
-### 使用技能：node ejs mongoDB
+### 使用技能：
+node ejs mongoDB
