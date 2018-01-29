@@ -21,14 +21,14 @@ node ejs mongoDB
 
 ### 应用截图
 
-[a]('screenshot/1.png')
+![a]('./screenshot/1.png')
 
-[b]('screenshot/2.png')
+![b]('./screenshot/2.png')
 
-[c]('screenshot/3.png')
+![c]('./screenshot/3.png')
 
-[d]('screenshot/4.png')
+![d]('./screenshot/4.png')
 
-[e]('screenshot/5.png')
+![e]('./screenshot/5.png')
 
-[f]('screenshot/6.png')
+![f]('./screenshot/6.png')
