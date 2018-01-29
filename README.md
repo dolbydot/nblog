@@ -1,4 +1,4 @@
-### nblog
+### node-blog
 一个用node写的博客
 
 ### 功能介绍
@@ -13,8 +13,22 @@ node ejs mongoDB
 ### 使用
 `git clone`
 
-`cd nblog`
+`cd node-blog`
 
 `npm i`
 
 `node index.js`
+
+### 应用截图
+
+[a]('screenshot/1.png')
+
+[b]('screenshot/2.png')
+
+[c]('screenshot/3.png')
+
+[d]('screenshot/4.png')
+
+[e]('screenshot/5.png')
+
+[f]('screenshot/6.png')
