@@ -19,16 +19,3 @@ node ejs mongoDB
 
 `node index.js`
 
-### 应用截图
-
-![a]('./screenshot/1.png')
-
-![b]('./screenshot/2.png')
-
-![c]('./screenshot/3.png')
-
-![d]('./screenshot/4.png')
-
-![e]('./screenshot/5.png')
-
-![f]('./screenshot/6.png')
