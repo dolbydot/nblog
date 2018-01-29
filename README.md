@@ -1,4 +1,4 @@
-# nblog
+### nblog
 一个用node写的博客
 
 ### 功能介绍
@@ -9,3 +9,12 @@
 
 ### 使用技能：
 node ejs mongoDB
+
+### 使用
+`git clone`
+
+`cd nblog`
+
+`npm i`
+
+`node index.js`
