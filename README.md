@@ -25,3 +25,11 @@ node ejs mongoDB
 
 `node index.js`
 
+
+### 效果截图
+![](https://raw.githubusercontent.com/dolbydot/node-blog/master/screenshot/1.png)
+![](https://raw.githubusercontent.com/dolbydot/node-blog/master/screenshot/2.png)
+![](https://raw.githubusercontent.com/dolbydot/node-blog/master/screenshot/3.png)
+![](https://raw.githubusercontent.com/dolbydot/node-blog/master/screenshot/4.png)
+![](https://raw.githubusercontent.com/dolbydot/node-blog/master/screenshot/5.png)
+![](https://raw.githubusercontent.com/dolbydot/node-blog/master/screenshot/6.png)
